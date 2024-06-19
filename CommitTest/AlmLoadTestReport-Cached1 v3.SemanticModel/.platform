@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "AlmLoadTestReport-Cached1 v3"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e2abb4e9-7308-4af1-909c-016b2899e08b"
+  }
+}
